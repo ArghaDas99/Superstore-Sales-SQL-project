@@ -27,6 +27,7 @@ Thanks to all who take time and energy to perform Kernels with this dataset and 
 ### Purpose
 This dataset can be used for predictive data analytics purpose.
 
+#### Dataset Link : https://www.kaggle.com/datasets/aungpyaeap/supermarket-sales
 
 ## Analysis
 
